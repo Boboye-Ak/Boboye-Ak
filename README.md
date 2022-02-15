@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Boboye-Ak
-- 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me @ boboye771@gmail.com
+Backend Developer. MongoDB, MySQL, Postgres, Sequelize, Node, Express, Vanilla JS, React(sometimes)
+boboye771@gmail.com
 
 <!---
 Boboye-Ak/Boboye-Ak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
