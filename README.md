@@ -1,7 +1,6 @@
-Backend Developer. MongoDB, MySQL, Postgres, Sequelize, Node, Express, Vanilla JS, React(sometimes)
+Backend/Blockchain Developer. MongoDB, MySQL, Postgres, Sequelize, Node, Express, Vanilla JS, Solidity, React(sometimes)
 boboye771@gmail.com
 
 <!---
-Boboye-Ak/Boboye-Ak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+I am an energetic entry level web developer and blockchain developer proficient in NodeJS, ExpressJS, solidity. I work with both brownie(python) and hardhat(JS)
 --->
