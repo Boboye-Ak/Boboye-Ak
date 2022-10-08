@@ -1,4 +1,4 @@
-Backend/Blockchain Developer. MongoDB, MySQL, Postgres, Sequelize, Node, Express, Vanilla JS, Solidity, React(sometimes)
+Backend/Blockchain Developer.Express, Vanilla JS, Solidity,  MongoDB, MySQL, Postgres, Sequelize, Node, React(sometimes)
 boboye771@gmail.com
 
 <!---
