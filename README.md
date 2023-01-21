@@ -1,4 +1,4 @@
-Backend/Blockchain Developer.Express, Vanilla JS, Solidity,  MongoDB, MySQL, Postgres, Sequelize, Node, React(sometimes)
+Full Stack Web2/Web3 Developer.Express, Vanilla JS, Solidity,  MongoDB, MySQL, Postgres, Sequelize, Node, React(sometimes)
 boboye771@gmail.com
 
 <!---
